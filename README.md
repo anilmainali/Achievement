@@ -1,5 +1,10 @@
 # Achievement
+
 ## January 2018
+
+### January 24th 2018
+- Reciived full financial assistance for the Google IT Support Professional Certificate from Google.
+
 ### January 10th 2018
   - Received Grow with Google Challenge Scholarship to the Front-End Web Developer track.
 
