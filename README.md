@@ -5,6 +5,8 @@
 ### January 24th 2018
 - Reciived full financial assistance for the Google IT Support Professional Certificate from Google.
 
+<img width="546" alt="googlecourera_scholarship_01" src="https://user-images.githubusercontent.com/10678180/35318989-81ed8af0-00a3-11e8-9f22-26a922c68d63.png">
+
 ### January 10th 2018
   - Received Grow with Google Challenge Scholarship to the Front-End Web Developer track.
 
