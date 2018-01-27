@@ -20,4 +20,4 @@
 
 <img width="259" alt="qamentorlogo" src="https://user-images.githubusercontent.com/10678180/35469093-40adc0a8-02f3-11e8-978d-aeb993b7d58c.png">
 
-Thanks Ruslan for giving me such a great opportunity by giving me a chance.
+Thanks Ruslan for giving me such a great opportunity by giving me a chance.I appreciate it!
