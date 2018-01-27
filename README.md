@@ -17,3 +17,4 @@
 
 ## December 2017
 - Got my dream job at QA Mentor
+Thanks Ruslan for giving me such a great opportunity by giving me a chance.
