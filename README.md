@@ -21,3 +21,9 @@
 <img width="259" alt="qamentorlogo" src="https://user-images.githubusercontent.com/10678180/35469093-40adc0a8-02f3-11e8-978d-aeb993b7d58c.png">
 
 Thanks Ruslan for giving me such a great opportunity by giving me a chance.I appreciate it!
+
+
+![oldmemories](https://user-images.githubusercontent.com/10678180/35774098-8b29e074-092b-11e8-9a2a-f69e36412311.jpg)
+
+
+![oldmemories_02](https://user-images.githubusercontent.com/10678180/35774102-92814678-092b-11e8-8b87-559a1c3a2b53.jpg)
