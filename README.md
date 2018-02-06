@@ -7,6 +7,9 @@
 
 <img width="626" alt="googlecourera_scholarship_01" src="https://user-images.githubusercontent.com/10678180/35319084-ed01c766-00a3-11e8-8451-771e4c93b7d4.png">
 
+#### There are total 6 courses to be completed.
+
+
 ### January 10th 2018
   - Received Grow with Google Challenge Scholarship to the Front-End Web Developer track.
 
