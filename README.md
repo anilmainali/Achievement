@@ -9,6 +9,9 @@
 
 #### There are total 6 courses to be completed.
 
+#### Completeted 1/6 Course
+
+
 
 ### January 10th 2018
   - Received Grow with Google Challenge Scholarship to the Front-End Web Developer track.
