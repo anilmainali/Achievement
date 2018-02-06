@@ -9,7 +9,7 @@
 
 #### There are total 6 courses to be completed.
 
-#### Completeted 1/6 Course
+# Completeted 1/6 Course: Technical Support Fundamentals
 
 <img width="805" alt="courseone" src="https://user-images.githubusercontent.com/10678180/35842723-831bf030-0ac9-11e8-8b9f-b995dae1e29d.png">
 
