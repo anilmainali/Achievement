@@ -11,6 +11,8 @@
 
 #### Completeted 1/6 Course
 
+[TechnicalSupportFundamentals.pdf](https://github.com/anilmainali/My-First-Repo/files/1697786/TechnicalSupportFundamentals.pdf)
+
 
 
 ### January 10th 2018
