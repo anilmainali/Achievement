@@ -16,6 +16,9 @@
 
 <img width="1006" alt="bitsandbitsofcomputernetworkingcertificate" src="https://user-images.githubusercontent.com/10678180/36941959-3d8b37c4-1f2d-11e8-9e2a-406ebd510fdf.png">
 
+# Completeted 3/6 Course: Technical Support Fundamentals
+
+
 
 
 ## January 10th 2018
