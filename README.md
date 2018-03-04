@@ -18,8 +18,7 @@
 
 # Completeted 3/6 Course: Technical Support Fundamentals
 
-
-
+<img width="928" alt="operatingsystemsandyoubecomeapoweruser" src="https://user-images.githubusercontent.com/10678180/36941978-c7864b6c-1f2d-11e8-95a1-df0456451a1c.png">
 
 ## January 10th 2018
   - Received Grow with Google Challenge Scholarship to the Front-End Web Developer track.
