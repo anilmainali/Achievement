@@ -20,7 +20,7 @@
 
 <img width="928" alt="operatingsystemsandyoubecomeapoweruser" src="https://user-images.githubusercontent.com/10678180/36941978-c7864b6c-1f2d-11e8-95a1-df0456451a1c.png">
 
-# Completeted 4/6 Course: Technical Support Fundamentals
+# Completeted 4/6 Course: System Administration and IT Infrastructure Services
 
 <img width="935" alt="systemadministrationanditinfrastructureservices" src="https://user-images.githubusercontent.com/10678180/36988674-0cd9ce40-2065-11e8-8a52-fad18a34f317.png">
 
