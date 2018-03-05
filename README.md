@@ -12,7 +12,7 @@
 
 <img width="805" alt="courseone" src="https://user-images.githubusercontent.com/10678180/35842723-831bf030-0ac9-11e8-8b9f-b995dae1e29d.png">
 
-# Completeted 2/6 Course: Technical Support Fundamentals
+# Completeted 2/6 Course: The Bits and Bytes of Computer Networking
 
 <img width="1006" alt="bitsandbitsofcomputernetworkingcertificate" src="https://user-images.githubusercontent.com/10678180/36941959-3d8b37c4-1f2d-11e8-9e2a-406ebd510fdf.png">
 
