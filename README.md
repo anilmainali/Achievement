@@ -22,6 +22,7 @@
 
 # Completeted 4/6 Course: Technical Support Fundamentals
 
+<img width="935" alt="systemadministrationanditinfrastructureservices" src="https://user-images.githubusercontent.com/10678180/36988674-0cd9ce40-2065-11e8-8a52-fad18a34f317.png">
 
 
 ## January 10th 2018
