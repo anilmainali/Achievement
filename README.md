@@ -26,6 +26,7 @@
 
 # Completeted 6/6 Course:  IT Security: Defense against the digital dark arts
 
+<img width="768" alt="itsecurity-defenseagainstthedigitaldarkarts" src="https://user-images.githubusercontent.com/10678180/37321566-e56608fa-2646-11e8-9579-896ad94fa6f8.png">
 
 
 ## January 10th 2018
