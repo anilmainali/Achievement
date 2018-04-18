@@ -1,5 +1,11 @@
 # Achievement
 
+# April 2018
+
+- Received full 6-month Grow with Google Developer Scholarship to the Front-End Web Developer Nanodegree program!
+
+<img width="677" alt="scholarship" src="https://user-images.githubusercontent.com/10678180/38912260-eb10389c-4299-11e8-9cd8-33cbd9fcab56.png">
+
 # January 2018
 
 ## January 24th 2018
